@@ -1,0 +1,22 @@
+certifi==2021.10.8
+click==8.0.3
+colorama==0.4.4
+Flask==2.0.2
+importlib-metadata==4.8.1
+itsdangerous==2.0.1
+Jinja2==3.0.2
+joblib==1.1.0
+nltk==3.6.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1634106873805/work
+olefile==0.46
+Pillow==8.4.0
+regex==2021.10.23
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+torch==1.10.0
+torchaudio==0.10.0
+torchvision==0.11.1
+tqdm==4.62.3
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+Werkzeug==2.0.2
+wincertstore==0.2
+zipp==3.6.0
